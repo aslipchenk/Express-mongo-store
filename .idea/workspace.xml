@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c1594b1-9bb2-44c5-86ec-97e3472737ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/views/courses.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node_js_examples/marshrutization/article.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/fragment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/inc/libmx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_before_strchr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_binary_search.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_bubble_sort.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_cmp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_count_substr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_count_words.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_create_node.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_del_extra_spaces.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_del_strarr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_file_to_str.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_foreach.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_get_char_index.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_get_substr_index.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_hex_to_nbr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_isdigit.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_isspace.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_itoa.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_list_size.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_memccpy.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_memchr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_memcmp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_memcpy.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_memmem.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_memmove.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_memrchr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_memset.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_nbr_to_hex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_pop_back.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_pop_front.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_pow.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_print_strarr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_print_unicode.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_printchar.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_printint.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_printlist.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_printstr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_push_back.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_push_front.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_quicksort.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_read_line.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_realloc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_replace_substr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_sort_list.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_sqrt.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_str_reverse.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_strcat.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_strchr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_strcmp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_strcpy.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_strdel.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_strdup.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_strjoin.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_strlen.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_strncmp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_strncpy.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_strndup.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_strnew.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_strsplit.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_strstr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_strtrim.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/src/mx_swap_char.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlibmx/tmain.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject — копия 2/.vscode/c_cpp_properties.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject — копия 2/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject — копия 2/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubrew-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubrew-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubrew-master/install.sh" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lvUas72unCPWGqlD6w2qX0ewYK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.20" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/views" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c1594b1-9bb2-44c5-86ec-97e3472737ca" name="Default Changelist" comment="" />
+      <created>1608477126475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608477126475</updated>
+      <workItem from="1608477128170" duration="72170000" />
+      <workItem from="1609850056902" duration="27636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609961267261">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="369" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1609961267261" />
+    <state x="788" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608505625822">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="788" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1608505625822" />
+    <state x="348" y="148" key="FileDocumentManager.FileCacheConflict" timestamp="1608477477633">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="348" y="148" key="FileDocumentManager.FileCacheConflict/0.0.1440.900@0.0.1440.900" timestamp="1608477477633" />
+    <state x="616" y="192" key="IDE.errors.dialog" timestamp="1609162679104">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="616" y="192" key="IDE.errors.dialog/0.0.1440.900@0.0.1440.900" timestamp="1609162679104" />
+    <state x="712" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1609961283387">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="712" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1609961283387" />
+  </component>
+</project>
