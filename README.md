@@ -5,7 +5,7 @@ Stack: Node.Js, Express, MongoDB.
 
 This is simple pet-project application.
 
-#Implemented:
+# Implemented:
 1.Login and registration.
 2.Validation of forms (passwords, emails and goods form).
 3.Sending messages on email, using SendGrid - https://sendgrid.com/.
@@ -17,7 +17,7 @@ This is simple pet-project application.
 9.Cart control.
 10.History of buys.
 
-#Technologies used:
+# Technologies used:
 "bcryptjs": "^2.4.3",
     "compression": "^1.7.4",
     "connect-flash": "^0.1.1",
