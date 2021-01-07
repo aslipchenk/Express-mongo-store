@@ -34,7 +34,7 @@ This is simple pet-project application.
 + "nodemailer-sendgrid-transport": "^0.2.0",
 + "uuid": "^8.3.2"
 
-##License
+## License
     The application is open-sourced software licensed under the MIT license.
 
  ## Thanks for attention).
