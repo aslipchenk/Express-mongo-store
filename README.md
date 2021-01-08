@@ -35,7 +35,7 @@ This is simple pet-project application.
 + "uuid": "^8.3.2"
 
 ## License
-    The application is open-sourced licensed under the MIT license.
+    The application is open-sourced licensed under the ISC license.
 
  ## Thanks for attention).
     
