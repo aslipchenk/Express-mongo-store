@@ -70,15 +70,6 @@ const PORT = process.env.PORT || 3000;
 async function start() {
     try {
         await mongoose.connect(keys.MONGODB_URI, {useNewUrlParser: true, useUnifiedTopology: true, useFindAndModify: false});
-        // const candidate = await User.findOne();
-        // if (!candidate) {
-        //     const user = new User ({
-        //         email: 'slipchenkotoni2000@gmail.com',
-        //         name: 'Anton',
-        //         cart: {items: []},
-        //     })
-        //     await user.save();
-        // }
         app.listen(PORT, () => {
             console.log(`Server is running on port ${PORT}`);
         });
@@ -89,31 +80,3 @@ async function start() {
 }
 start();
 
-
-// const password = 'goxI9HUgcWlmjy0W';
-
-
-
-
-// app.get('/', (req, res) => {
-//     // res.status(200);
-//     // res.sendFile(path.join(__dirname, 'views', 'index.hbs'));
-//     res.render('index', {
-//         title: 'Main Page',
-//         isHome: true,
-//     });
-// });
-// app.get('/add', (req, res) => {
-//     // res.sendFile(path.join(__dirname, 'views', 'about.hbs'));
-//     res.render('add', {
-//         title: 'Add course',
-//         isAdd: true,
-//     });
-// })
-//
-// app.get('/courses', (req, res) => {
-//     res.render('courses', {
-//         title: 'Courses',
-//         isCourses: true
-//     });
-// })
